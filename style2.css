@@ -1,0 +1,45 @@
+
+body{
+    background-color: chocolate;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    display:block;
+    background-color:azure;
+}
+li a{
+    display: block;
+    color:aqua;
+    text-align: left;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color:lightpink;
+
+}
+li{
+    
+    float: left;
+    
+}
+h3{
+    text-align: center;
+    font-family:cursive;
+    text-decoration-style: double;
+
+}
+.iframe {
+    background-color: azure;
+
+}
+form {
+    background-image:url(OIP.jpg);
+    background-repeat: no-repeat;
+    background-size: 800px 800px;
+    height: 1500;
+    width: 1500;
+}
